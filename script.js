@@ -51,7 +51,7 @@
 		}  		
   	})
 
-  	document.getElementById('body').addEventListener('mousedown', function(){
+  	document.getElementById('piano').addEventListener('mousedown', function(){
   		down = true;
   	})
 
